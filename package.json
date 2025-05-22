@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["ad9833.py", "github:KipCrossing/Micropython-AD9833/ad9833.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
